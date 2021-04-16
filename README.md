@@ -1,18 +1,19 @@
 # binance-python-api
 Using Binance official api to display your currency distribution.
 
-## Result
-    
-    ![image](/picture/20210417_011819.png)
+## Result  
+    ![image](https://github.com/yjfu95103/binance-python-api/blob/main/picture/20210417_011819.png)
 
-## Environment create
+## Environment setup
+    * create & launch env
     ```
-        pip3 install pipenv  #install lib
-        pipenv --python 3.8
-        pipenv shell         #launch env
+    $ pip3 install pipenv  #install lib
+    $ pipenv --python 3.8
+    $ pipenv shell         #launch env
     ```
+    * quit
     ```
-        exit                 #left env
+    $ exit                 
     ```
 
 ## How to use
