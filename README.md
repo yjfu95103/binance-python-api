@@ -3,7 +3,7 @@ Using Binance official api to display your currency distribution.
 
 ## Result  
 * my ticker distribution for example
-![image](https://github.com/yjfu95103/binance-python-api/blob/main/picture/20210417_011819.png =100x100)
+![image](https://github.com/yjfu95103/binance-python-api/blob/main/picture/20210417_011819.png)
 
 ## Environment setup
 * create & launch env
