@@ -27,7 +27,7 @@ $ api_secret = your_api_secret
 ```
 * run api
 ```
-python3 ticker_percent.py
+$ python3 ticker_percent.py
 ```
 
 
