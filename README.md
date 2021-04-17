@@ -1,6 +1,6 @@
 # binance-python-api
-![](https://img.shields.io/static/v1?label=python&message=3.6|3.7&color=blue)
-Using Binance official api to display your currency distribution.
+![](https://img.shields.io/static/v1?label=python&message=3.8&color=blue)
+> Using Binance official api to display your currency distribution.
 
 ## Result  
 * my ticker distribution for example
