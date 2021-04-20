@@ -1,4 +1,4 @@
-# binance-python-api
+# python-binance-visualization
 ![](https://img.shields.io/static/v1?label=python&message=3.8&color=blue)
 > Using Binance official api to display your currency distribution.
 
