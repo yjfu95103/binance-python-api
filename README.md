@@ -2,7 +2,7 @@
 ![](https://img.shields.io/static/v1?label=python&message=3.8&color=blue)
 > Using Binance official api to display your currency distribution.
 
-## Result  
+## Result (picture)
 * my ticker distribution for example
 ![image](https://github.com/yjfu95103/binance-python-api/blob/main/picture/20210417_011819.png)
 
